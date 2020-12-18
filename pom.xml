@@ -19,7 +19,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>18</version>
-    <relativePath /> <!-- resolve from repository -->
+    <relativePath/> <!-- resolve from repository -->
   </parent>
 
   <artifactId>ratis</artifactId>
@@ -449,7 +449,7 @@
       <dependency>
         <groupId>com.beust</groupId>
         <artifactId>jcommander</artifactId>
-        <version>1.72</version>
+        <version>1.78</version>
       </dependency>
 
       <dependency>
