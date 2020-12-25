@@ -214,7 +214,7 @@
 
     <shell-executable>bash</shell-executable>
 
-    <hadoop.version>3.3.0</hadoop.version>
+    <hadoop.version>3.1.1</hadoop.version>
     <hadoop-maven-plugins.version>${hadoop.version}</hadoop-maven-plugins.version>
 
     <!-- define the Java language version used by the compiler -->
@@ -449,7 +449,7 @@
       <dependency>
         <groupId>com.beust</groupId>
         <artifactId>jcommander</artifactId>
-        <version>1.72</version>
+        <version>1.75</version>
       </dependency>
 
       <dependency>
